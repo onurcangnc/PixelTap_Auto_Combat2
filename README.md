@@ -43,7 +43,8 @@ To get started with this project, you need to have Python installed. Then, you c
 ## Usage
 
 1. **Configure Image Paths and Parameters**: Update the image paths and other parameters in the script as needed.
-2. **Run the Script**: Execute the script using Python.
+2. **Set Up BlueStacks 5**: Ensure BlueStacks 5 is running with a resolution of 900x1600 and 240 DPI.
+3. **Run the Script**: Execute the script using Python.
 
 ```sh
 python combat2.py
